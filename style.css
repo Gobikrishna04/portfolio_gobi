@@ -1,0 +1,26 @@
+.name-allignment{
+	text-align: center;
+	font-size: 50px;
+	font-family: georgia;
+}
+
+.center{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.topic{
+	font-size: 30px;
+	font-family:georgia;
+}
+
+.content{
+	font-size: 20px;
+	font-family: timesnewroman;
+}
+
+.table-design{
+	text-align: center;
+}
